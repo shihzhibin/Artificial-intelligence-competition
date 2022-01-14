@@ -1,3 +1,10 @@
+### **Team Member**    
+
+| 編輯者       |    暱稱         |                      LinkedIn                                                            |
+| :-----------:|:-----------:   |:---------------------------------------------------------------------------------------: |
+|  洪志宇      | CHI-YU HONG     | [https://www.linkedin.com/in/chiyuhong/](https://www.linkedin.com/in/chiyuhong/)     
+|  施智臏      | ZHI-BIN SHIH     | [https://www.linkedin.com/in/zhibin-shih-9a0a711a9/](https://www.linkedin.com/in/zhibin-shih-9a0a711a9/)     
+
 方法
 
 機率推測：
